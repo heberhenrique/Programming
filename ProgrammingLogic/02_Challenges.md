@@ -138,6 +138,6 @@ Console.WriteLine("3 - Consultar notas anteriores");
 
 ### **Referências**
 
-[Calcular Simples Nacional](https://www.dicionariofinanceiro.com/calcular-simples-nacional/)
+[Calcular Simples Nacional](https://www.dicionariofinanceiro.com/calcular-simples-nacional/) <br>
 [Tabela Anexo III Simples Nacional](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp123.htm#anexoiii)
 
