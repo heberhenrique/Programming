@@ -59,4 +59,4 @@ Caso o disparo acerte uma embarcação aquele local é sinalizado. Quando um nav
   - Letra 'A': Espaço que recebeu disparo mas não tinha embarcação
   - Letra 'X': Espaço que recebeu disparo e tinha uma embarcação.
 - A cada turno o programa deve limpar a tela e apresentar o tabuleiro adversário
-- Quando um disparo for ceiteio o programa deve apresentar uma mensagem e também quando o disparo for errado.
+- Quando um disparo for certeiro o programa deve apresentar uma mensagem e também quando o disparo for errado.
